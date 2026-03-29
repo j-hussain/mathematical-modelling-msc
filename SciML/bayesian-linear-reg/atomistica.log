@@ -1,0 +1,23 @@
+Welcome to - Atomistica -
+
+   Atomistica revision:  1.2.7
+   Atomistica rev date:  2025-10-21
+   Atomistica URL:       https://github.com/Atomistica/atomistica
+
+   architecture:         x86_64
+
+   build host:           fb9daeb4563b
+   build date:           Oct 21 2025 20:56:13
+   compiler version:     meson-python
+   compile options:      
+
+   run date:             Feb 10 2026 17:3:42
+
+
+   simulation started:  Feb 10 2026 17:3:42
+   simulation ended:    Feb 10 2026 19:9:57
+
+====> TIMINGS <====
+                                                                   time[s]     calls
+                                                                   -------     -----
+ MDCORE                                                           7574.217         1
